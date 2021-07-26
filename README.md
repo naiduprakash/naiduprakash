@@ -1,4 +1,4 @@
-### Hey 👋, I'm Prakash A. naidu
+### Hey 👋, I'm Prakash A. Naidu
 
 ## About Me 👀
 
