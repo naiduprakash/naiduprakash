@@ -7,17 +7,11 @@
 - ❤️ Loved to learn new things
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently working on React/Node base project
-
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 <!-- - 🤔 I’m looking for help with ... -->
 
-- 💬 Ask me about anything
-
 - 📫 [prakash.naidu20101995@gmail.com](mailto:prakash.naidu20101995@gmail.com)
-
-- 😄 He/Him
 
 <!-- - ⚡ Fun fact: ... -->
 
